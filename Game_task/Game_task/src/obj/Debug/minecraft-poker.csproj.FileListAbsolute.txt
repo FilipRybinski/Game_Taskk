@@ -1,0 +1,10 @@
+C:\Users\rybci\Desktop\minecraft-poker-main\src\obj\Debug\minecraft-poker.csproj.AssemblyReference.cache
+C:\Users\rybci\Desktop\minecraft-poker-main\src\obj\Debug\minecraft-poker.csproj.CoreCompileInputs.cache
+C:\Users\rybci\Desktop\minecraft-poker-main\src\bin\Debug\minecraft-poker.exe.config
+C:\Users\rybci\Desktop\minecraft-poker-main\src\bin\Debug\minecraft-poker.exe
+C:\Users\rybci\Desktop\minecraft-poker-main\src\bin\Debug\minecraft-poker.pdb
+C:\Users\rybci\Desktop\minecraft-poker-main\src\bin\Debug\WindowsInput.dll
+C:\Users\rybci\Desktop\minecraft-poker-main\src\bin\Debug\WindowsInput.pdb
+C:\Users\rybci\Desktop\minecraft-poker-main\src\bin\Debug\WindowsInput.xml
+C:\Users\rybci\Desktop\minecraft-poker-main\src\obj\Debug\minecraft-poker.exe
+C:\Users\rybci\Desktop\minecraft-poker-main\src\obj\Debug\minecraft-poker.pdb
